@@ -1,2 +1,2 @@
 # MSE-NotesApp
-Mobile Software Engineering (MSE) exam prerequisite WS22/23
+Mobile Software Engineering (MSE) exam prerequisite WS22/23.

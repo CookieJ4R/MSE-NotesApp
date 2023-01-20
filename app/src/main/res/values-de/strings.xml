@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotizApp</string>
+    <string name="app_title">Beste Notiz App der Welt!</string>
+    <string name="picture_content_description">Beispielbild</string>
+    <string name="create_note_title">Notiz erstellen</string>
+    <string name="note_title_placeholder">Titel eingeben...</string>
+    <string name="note_text_placeholder">Text eingeben...</string>
+    <string name="use_image_toggle_text">Bild nutzen?</string>
+    <string name="important_text">Wichtig?</string>
+    <string name="chosen_picture_content_description">gewaehltes Bild</string>
+    <string name="save_note_text">Speichern</string>
+    <string name="add_button_content_description">neue notiz button</string>
+</resources>

@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">MSE Notes App</string>
+    <string name="app_name">NotesApp</string>
+    <string name="app_title">Best Notes App Ever</string>
+    <string name="picture_content_description">example picture</string>
+    <string name="create_note_title">Create Note</string>
+    <string name="note_title_placeholder">Enter Title...</string>
+    <string name="note_text_placeholder">Enter note text...</string>
+    <string name="use_image_toggle_text">Use Image</string>
+    <string name="important_text">Important?</string>
+    <string name="chosen_picture_content_description">chosen picture</string>
+    <string name="save_note_text">Save</string>
+    <string name="add_button_content_description">add note button</string>
 </resources>
